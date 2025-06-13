@@ -23,14 +23,14 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
 
-* **[Design Verification Engineer (eInfochips Inc)](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Massachusetts-Remote-Employees/Design-Verification-Engineer--eInfochips-Inc-_R229471)** — $160,000 – $185,000 USD _(posted 2025-03-13)_
+* **[Design Verification Engineer (eInfochips Inc)](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MA-Massachusetts-Remote-Employees/Design-Verification-Engineer--eInfochips-Inc-_R229471)** — ¤160,000 – ¤185,000 USD _(posted 2025-03-13)_
 * **[Field Applications Engineer](https://arrow.wd1.myworkdayjobs.com/ac/job/US-UT-Utah-Remote-Employees/Field-Applications-Engineer_R229185)** — _n/a_ _(posted 2025-02-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
-* **[Product Engineer](https://jobs.ashbyhq.com/reteam/5cad5454-49ee-408a-8dbd-92c13f492d9e)** — $75,000 – $100,000 USD _(posted 2025-03-12)_
-* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — $170,000 – $260,000 USD _(posted 2025-03-12)_
-* **[Design Engineer - Americas](https://jobs.ashbyhq.com/ashby/579e9d03-0724-482b-a42a-8e5e80d73405)** — $170,000 – $260,000 USD _(posted 2025-03-12)_
+* **[Product Engineer](https://jobs.ashbyhq.com/reteam/5cad5454-49ee-408a-8dbd-92c13f492d9e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
+* **[Engineer Who Can Design - Americas](https://jobs.ashbyhq.com/ashby/145ff46b-1441-4773-bcd3-c8c90baa598a)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
+* **[Design Engineer - Americas](https://jobs.ashbyhq.com/ashby/579e9d03-0724-482b-a42a-8e5e80d73405)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
 
@@ -38,16 +38,21 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Sales Engineer (DoD &amp; Intel)](https://job-boards.greenhouse.io/cribl/jobs/5499993004)** — _n/a_ _(posted 2025-06-12)_
 * **[Sr Staff Software Engineer, Platform](https://job-boards.greenhouse.io/cribl/jobs/5544772004)** — _n/a_ _(posted 2025-05-20)_
 * **[Staff Software Engineer, Stream Control Plane](https://job-boards.greenhouse.io/cribl/jobs/5527219004)** — _n/a_ _(posted 2025-04-26)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
-* **[Principal Engineer - Sensor, Linux (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Engineer---Sensor--Linux--Remote-_R23054)** — $180,000 – $250,000 USD _(posted 2025-05-15)_
+* **[Principal Engineer - Sensor, Linux (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Engineer---Sensor--Linux--Remote-_R23054)** — ¤180,000 – ¤250,000 USD _(posted 2025-05-15)_
 * **[Engineering Manager, Sensor (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Engineering-Manager--Sensor--Remote--East-Coast-_R23143)** — _n/a_ _(posted 2025-05-15)_
 * **[Sr. Engineer II - Sensor Pipelines and Programmability Tools (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer-II---Sensor-Pipelines-and-Programmability-Tools--Remote-_R22741)** — _n/a_ _(posted 2025-04-01)_
 * **[Sr. Software Engineer - Windows Kernel, Core Platform (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Windows-Kernel--Core-Platform--Remote--CAN-_R19309)** — _n/a_ _(posted 2025-03-07)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
+
+* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068049-1)** — _n/a_ _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
@@ -67,24 +72,24 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Forward Deployed Engineer](https://jobs.ashbyhq.com/fieldguide/5f35e2e6-5008-4aa2-ba7e-199e86e18eb7)** — $125,000 – $184,000 USD _(posted 2025-03-12)_
+* **[Forward Deployed Engineer](https://jobs.ashbyhq.com/fieldguide/5f35e2e6-5008-4aa2-ba7e-199e86e18eb7)** — ¤125,000 – ¤184,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
-* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — $180,000 – $200,000 USD _(posted 2025-05-21)_
+* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — $170,000 – $190,000 USD _(posted 2025-06-11)_
-* **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — $168,000 – $231,000 USD _(posted 2025-05-29)_
-* **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — $108,000 – $180,000 USD _(posted 2025-05-22)_
-* **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — $170,000 – $190,000 USD _(posted 2025-05-21)_
-* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — $142,000 – $155,000 USD _(posted 2025-05-16)_
-* **[Product Validation Engineer II ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F0d1dbcca-296e-460a-8a77-2c6a8ad52423)** — $120,000 – $140,000 USD _(posted 2025-05-10)_
-* **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — $125,000 – $155,000 USD _(posted 2025-05-08)_
-* **[Staff Software Engineer, Video](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5f051481-bea6-444f-8353-c52e87b2edfd)** — $200,000 – $220,000 USD _(posted 2025-04-24)_
-* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — $171,000 – $190,000 USD _(posted 2025-04-24)_
-* **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — $200,000 – $235,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
+* **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — ¤168,000 – ¤231,000 USD _(posted 2025-05-29)_
+* **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — ¤108,000 – ¤180,000 USD _(posted 2025-05-22)_
+* **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
+* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — ¤142,000 – ¤155,000 USD _(posted 2025-05-16)_
+* **[Product Validation Engineer II ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F0d1dbcca-296e-460a-8a77-2c6a8ad52423)** — ¤120,000 – ¤140,000 USD _(posted 2025-05-10)_
+* **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
+* **[Staff Software Engineer, Video](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5f051481-bea6-444f-8353-c52e87b2edfd)** — ¤200,000 – ¤220,000 USD _(posted 2025-04-24)_
+* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
+* **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
@@ -114,8 +119,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
-* **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — $190,000 – $240,000 USD _(posted 2025-03-12)_
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — $160,000 – $175,000 USD _(posted 2025-03-12)_
+* **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
@@ -136,7 +140,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uaddtrclan8bfztrskjn.webp" width="24" height="24" alt="Motion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motion](https://jobo.world/company/Motion)
 
-* **[Software Engineer (All levels)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)** — $125,000 – $250,000 USD _(posted 2025-03-12)_
+* **[Software Engineer (All levels)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)** — ¤125,000 – ¤250,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
@@ -146,6 +150,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521423003)** — _n/a_ _(posted 2025-04-17)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521424003)** — _n/a_ _(posted 2025-04-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fmgidmielyywnjw4ihyz.webp" width="24" height="24" alt="Muon Space logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Muon Space](https://jobo.world/company/MuonSpace)
+
+* **[Senior Flight Software Engineer](https://job-boards.greenhouse.io/muonspace/jobs/4737877007)** — _n/a_ _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
 * **[Senior System Software Engineer - GPU and SoC](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-System-Software-Engineer---GPU-and-SoC_JR1997463)** — _n/a_ _(posted 2025-05-12)_
@@ -153,12 +161,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
-* **[Process Equipment Design Engineer](https://boards.greenhouse.io/oklo/jobs/5171084004)** — _n/a_ _(posted 2025-03-28)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u79n2cm9db2wmtsm9025.webp" width="24" height="24" alt="Orb logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Orb](https://jobo.world/company/Orb)
 
-* **[Forward Deployed Engineer](https://jobs.ashbyhq.com/orb/35365d49-cb3c-4fbd-913f-a6e8062f2733)** — $142,500 – $231,000 USD _(posted 2025-06-06)_
+* **[Forward Deployed Engineer](https://jobs.ashbyhq.com/orb/35365d49-cb3c-4fbd-913f-a6e8062f2733)** — ¤142,500 – ¤231,000 USD _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
@@ -181,12 +188,12 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
-* **[Sr. Sustaining Electrical Engineer](https://jobs.ashbyhq.com/serverobotics/49d3c7e1-e598-4ef1-86bd-dd3729302d19)** — $140,000 – $170,000 USD _(posted 2025-06-07)_
-* **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — $140,000 – $170,000 USD _(posted 2025-06-07)_
-* **[Software Implementation Engineer, Market Expansion](https://jobs.ashbyhq.com/serverobotics/750b3216-693b-4663-9763-5f622773f4a9)** — $130,000 – $175,000 USD _(posted 2025-06-04)_
-* **[Sr. Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/1980ecb4-d381-4ca2-9b86-555686e677e6)** — $150,000 – $200,000 USD _(posted 2025-05-31)_
-* **[Full-Stack Software Engineer, Internal Services](https://jobs.ashbyhq.com/serverobotics/3cd15216-68ba-40e3-91a2-17e3817db7f0)** — $175,000 – $230,000 USD _(posted 2025-05-10)_
-* **[Lead Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/88711f08-e506-4d7f-a65d-7acd583cd63f)** — $150,000 – $200,000 USD _(posted 2025-03-12)_
+* **[Sr. Sustaining Electrical Engineer](https://jobs.ashbyhq.com/serverobotics/49d3c7e1-e598-4ef1-86bd-dd3729302d19)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
+* **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
+* **[Software Implementation Engineer, Market Expansion](https://jobs.ashbyhq.com/serverobotics/750b3216-693b-4663-9763-5f622773f4a9)** — ¤130,000 – ¤175,000 USD _(posted 2025-06-04)_
+* **[Sr. Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/1980ecb4-d381-4ca2-9b86-555686e677e6)** — ¤150,000 – ¤200,000 USD _(posted 2025-05-31)_
+* **[Full-Stack Software Engineer, Internal Services](https://jobs.ashbyhq.com/serverobotics/3cd15216-68ba-40e3-91a2-17e3817db7f0)** — ¤175,000 – ¤230,000 USD _(posted 2025-05-10)_
+* **[Lead Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/88711f08-e506-4d7f-a65d-7acd583cd63f)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
 
@@ -199,8 +206,8 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
 
-* **[Applications Engineer (Midwest US - Detroit or Ohio preferred)](https://jobs.ashbyhq.com/standardbots/7f347bf7-8cf2-41d2-814b-b01cb5522e46)** — $80,000 – $120,000 USD _(posted 2025-06-04)_
-* **[Senior Software Engineer, Infrastructure & Developer Tooling](https://jobs.ashbyhq.com/standardbots/ce8ae0e8-21b2-4896-b538-ecea5794802d)** — $170,000 – $220,000 USD _(posted 2025-05-30)_
+* **[Applications Engineer (Midwest US - Detroit or Ohio preferred)](https://jobs.ashbyhq.com/standardbots/7f347bf7-8cf2-41d2-814b-b01cb5522e46)** — ¤80,000 – ¤120,000 USD _(posted 2025-06-04)_
+* **[Senior Software Engineer, Infrastructure & Developer Tooling](https://jobs.ashbyhq.com/standardbots/ce8ae0e8-21b2-4896-b538-ecea5794802d)** — ¤170,000 – ¤220,000 USD _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
@@ -209,7 +216,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Technical Control Engineer (Site Startup)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer--Site-Startup-_R4781)** — _n/a_ _(posted 2025-06-03)_
 * **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
 * **[Program Manager, Layout Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Program-Manager--Layout-Engineering_R4935)** — _n/a_ _(posted 2025-05-30)_
-* **[Advanced Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Advanced-Industrial-Controls-Engineer_R4832)** — _n/a_ _(posted 2025-04-30)_
 * **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
 * **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 * **[Industrial Engineer, Commissioning Services](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Engineer--Commissioning-Services_R4682)** — _n/a_ _(posted 2025-03-24)_
@@ -232,11 +238,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vjvpsj9g0dgi0bdeodhd.webp" width="24" height="24" alt="Vannevar Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vannevar Labs](https://jobo.world/company/VannevarLabs)
 
-* **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — $135,000 – $205,000 USD _(posted 2025-03-14)_
+* **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — ¤135,000 – ¤205,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
-* **[Build Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/5499505004)** — $18,000 – $18,000 USD _(posted 2025-04-16)_
+* **[Build Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/5499505004)** — ¤18,000 – ¤18,000 USD _(posted 2025-04-16)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
