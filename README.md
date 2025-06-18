@@ -239,4 +239,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Build Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/5499505004)** — ¤18,000 – ¤18,000 USD _(posted 2025-04-16)_
 
 ---
-_Updated automatically — 2025-06-17_
+_Updated automatically — 2025-06-18_
