@@ -8,7 +8,8 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
 
-* **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Systems-Engineer-III_31117007-1)** — _n/a_ _(posted 2025-04-25)_
+* **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Systems-Engineer-III_31117009-2)** — _n/a_ _(posted 2025-06-17)_
+* **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Systems-Engineer-III_31117009-1)** — _n/a_ _(posted 2025-06-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sp7qimtghkvk7bu8xh8a.webp" width="24" height="24" alt="AeroVironment logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVironment](https://jobo.world/company/AeroVironment)
 
@@ -36,12 +37,12 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
-* **[Sr Staff Software Engineer, Platform](https://job-boards.greenhouse.io/cribl/jobs/5544772004)** — _n/a_ _(posted 2025-05-20)_
 * **[Staff Software Engineer, Stream Control Plane](https://job-boards.greenhouse.io/cribl/jobs/5527219004)** — _n/a_ _(posted 2025-04-26)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Software Engineer III - Sensor IDP (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III---Sensor-IDP--Remote-_R23505-1)** — _n/a_ _(posted 2025-06-18)_
 * **[Principal Engineer - Sensor, Linux (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Engineer---Sensor--Linux--Remote-_R23054)** — ¤180,000 – ¤250,000 USD _(posted 2025-05-15)_
 * **[Engineering Manager, Sensor (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Engineering-Manager--Sensor--Remote--East-Coast-_R23143)** — _n/a_ _(posted 2025-05-15)_
 * **[Sr. Engineer II - Sensor Pipelines and Programmability Tools (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer-II---Sensor-Pipelines-and-Programmability-Tools--Remote-_R22741)** — _n/a_ _(posted 2025-04-01)_
@@ -109,6 +110,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lpd70vmyfkzahpck0wiq.webp" width="24" height="24" alt="Illumina logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Illumina](https://jobo.world/company/Illumina)
 
+* **[Field Service Engineer, South Florida](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Florida---Remote/Field-Service-Engineer--South-Florida_40794-JOB-1)** — ¤73,400 – ¤110,200 USD _(posted 2025-06-17)_
 * **[Sr Product Security Engineer](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Sr-Product-Security-Engineer_40756-JOB-1)** — _n/a_ _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
@@ -116,15 +118,9 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e)** — _n/a_ _(posted 2025-06-14)_
-* **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/e949f659-af69-4241-a8bc-b285f01371bd)** — _n/a_ _(posted 2025-06-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Software Engineer, Forcefield (R&D)](https://apply.workable.com/keepersecurity/j/0337340445/)** — _n/a_ _(posted 2025-06-09)_
-* **[Senior Software Engineer, Desktop Applications](https://apply.workable.com/keepersecurity/j/F0DD0676D1/)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
@@ -145,7 +141,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Senior Motion Planning and Control Engineer,](https://job-boards.greenhouse.io/motional/jobs/6575237003)** — _n/a_ _(posted 2025-05-17)_
-* **[Senior Autonomy Systems Engineer](https://job-boards.greenhouse.io/motional/jobs/6575601003)** — _n/a_ _(posted 2025-05-17)_
 * **[Senior Software Engineer, Roboticist](https://job-boards.greenhouse.io/motional/jobs/6563270003)** — _n/a_ _(posted 2025-05-03)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521423003)** — _n/a_ _(posted 2025-04-17)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521424003)** — _n/a_ _(posted 2025-04-17)_
@@ -162,6 +157,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
+* **[Process Equipment Design Engineer](https://boards.greenhouse.io/oklo/jobs/5171084004)** — _n/a_ _(posted 2025-03-28)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u79n2cm9db2wmtsm9025.webp" width="24" height="24" alt="Orb logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Orb](https://jobo.world/company/Orb)
@@ -227,16 +223,20 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[On-Site Field Service Engineer I - SEM/SDB - Boise, Idaho](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Idaho-USA/On-Site-Field-Service-Engineer-I---SEM-SDB---Boise--Idaho_R-01319338)** — _n/a_ _(posted 2025-06-10)_
 * **[Staff Engineer, Software](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Staff-Engineer--Software_R-01316817-1)** — _n/a_ _(posted 2025-05-08)_
 * **[Engineer II, Field Service (TEM) - East Bay, CA](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-California-USA/Engineer-II--Field-Service--TEM----East-Bay--CA_R-01312071-1)** — _n/a_ _(posted 2025-04-15)_
-* **[Engineer II, Field Service](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Engineer-II--Field-Service_R-01312815)** — _n/a_ _(posted 2025-04-08)_
 * **[Engineer II, Field Service (TEM, SEM, FIB) - Iowa/Nebraska Remote](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Iowa-USA/Engineer-II--Field-Service--TEM--SEM--FIB----Iowa-Nebraska-Remote_R-01307898)** — _n/a_ _(posted 2025-03-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vjvpsj9g0dgi0bdeodhd.webp" width="24" height="24" alt="Vannevar Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vannevar Labs](https://jobo.world/company/VannevarLabs)
 
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — ¤135,000 – ¤205,000 USD _(posted 2025-03-14)_
+* **[Cleared Forward Deployed Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4252109007)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
 * **[Build Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/5499505004)** — ¤18,000 – ¤18,000 USD _(posted 2025-04-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iqozuicibuaieg1a9yky.webp" width="24" height="24" alt="Yubico logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Yubico](https://jobo.world/company/Yubico)
+
+* **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
+
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
