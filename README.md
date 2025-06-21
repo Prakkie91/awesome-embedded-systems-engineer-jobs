@@ -9,11 +9,14 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
 
 * **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Systems-Engineer-III_31117009-2)** — _n/a_ _(posted 2025-06-17)_
-* **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Systems-Engineer-III_31117009-1)** — _n/a_ _(posted 2025-06-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sp7qimtghkvk7bu8xh8a.webp" width="24" height="24" alt="AeroVironment logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVironment](https://jobo.world/company/AeroVironment)
 
 * **[Senior Electronics Engineer (VideoRay)](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Pennsylvania/Senior-Electronics-Engineer--VideoRay-_5530)** — _n/a_ _(posted 2025-06-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ckyjhkdbpmvj9xoezwuu.webp" width="24" height="24" alt="Altera Digital Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera Digital Health](https://jobo.world/company/Altera-Digital-Health)
+
+* **[Support Engineer-Level 2](https://jobs.lever.co/smiledigitalhealth/9c7f3f2e-56e0-4ef9-9c20-48ab4e293db1)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
@@ -69,7 +72,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
-* **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/c8f6f311-2e74-460e-9bc7-e9ed0de2eafc)** — ¤90,000 USD _(posted 2025-06-19)_
+* **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
@@ -239,4 +242,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
