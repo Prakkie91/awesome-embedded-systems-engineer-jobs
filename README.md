@@ -21,6 +21,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
+* **[Sr. Product Support Engineer](https://job-boards.greenhouse.io/altium/jobs/4575882006)** — _n/a_ _(posted 2025-06-24)_
 * **[Enterprise Implementation Manager](https://job-boards.greenhouse.io/altium/jobs/4570992006)** — _n/a_ _(posted 2025-05-24)_
 * **[Software Engineer](https://jobs.ashbyhq.com/allium/d5c0f988-67ac-4388-bd54-1970c8cc17f5)** — _n/a_ _(posted 2025-03-12)_
 
@@ -85,7 +86,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — ¤168,000 – ¤231,000 USD _(posted 2025-05-29)_
 * **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — ¤108,000 – ¤180,000 USD _(posted 2025-05-22)_
 * **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
-* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — ¤142,000 – ¤155,000 USD _(posted 2025-05-16)_
 * **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
 * **[Staff Software Engineer, Video](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5f051481-bea6-444f-8353-c52e87b2edfd)** — ¤200,000 – ¤220,000 USD _(posted 2025-04-24)_
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
@@ -123,7 +123,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/a15ab174-75f1-4fb9-aebc-1d150fe37c85)** — _n/a_ _(posted 2025-06-21)_
+* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/59d16ded-982e-40bf-a917-a4afe99594af)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -245,4 +245,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
