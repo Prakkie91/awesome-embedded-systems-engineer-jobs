@@ -89,7 +89,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — ¤168,000 – ¤231,000 USD _(posted 2025-05-29)_
 * **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — ¤108,000 – ¤180,000 USD _(posted 2025-05-22)_
 * **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
-* **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
 * **[Staff Software Engineer, Video](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5f051481-bea6-444f-8353-c52e87b2edfd)** — ¤200,000 – ¤220,000 USD _(posted 2025-04-24)_
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
 * **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
@@ -171,6 +170,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
+* **[Process Equipment Design Engineer](https://boards.greenhouse.io/oklo/jobs/5171084004)** — _n/a_ _(posted 2025-03-28)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u79n2cm9db2wmtsm9025.webp" width="24" height="24" alt="Orb logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Orb](https://jobo.world/company/Orb)
@@ -182,6 +182,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Systems Engineer - Mission Definition](https://jobs.lever.co/reliable/68f70e8b-9aaf-4866-93b2-1c0cceb8d8f6)** — _n/a_ _(posted 2024-12-23)_
 * **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
 * **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
+
+* **[Staff Engineer Software Eng](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Staff-Engineer-Software-Eng_R-152864)** — _n/a_ _(posted 2025-05-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
@@ -236,7 +240,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Engineer 3, Field Service](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-California-USA/Engineer-3--Field-Service_R-01318975-1)** — _n/a_ _(posted 2025-06-20)_
 * **[Field Service Engineer II (Electron Microscopy) - Chandler, AZ](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Arizona-USA/Field-Service-Engineer-II--Electron-Microscopy----Chandler--AZ_R-01319686)** — _n/a_ _(posted 2025-06-13)_
 * **[Staff Engineer, Software](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Staff-Engineer--Software_R-01316817-1)** — _n/a_ _(posted 2025-05-08)_
-* **[Engineer II, Field Service (TEM) - East Bay, CA](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-California-USA/Engineer-II--Field-Service--TEM----East-Bay--CA_R-01312071-1)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
@@ -251,4 +254,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-06-26_
+_Updated automatically — 2025-06-27_
