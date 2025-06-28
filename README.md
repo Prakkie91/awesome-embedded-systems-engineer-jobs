@@ -21,7 +21,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
 
-* **[Enterprise Implementation Manager](https://job-boards.greenhouse.io/altium/jobs/4570992006)** — _n/a_ _(posted 2025-05-24)_
 * **[Software Engineer](https://jobs.ashbyhq.com/allium/d5c0f988-67ac-4388-bd54-1970c8cc17f5)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
@@ -85,6 +84,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Mechanical Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F566f6462-5036-4ae6-8e3a-cb644465c7a0)** — ¤115,200 – ¤158,400 USD _(posted 2025-06-27)_
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 * **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — ¤168,000 – ¤231,000 USD _(posted 2025-05-29)_
 * **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — ¤108,000 – ¤180,000 USD _(posted 2025-05-22)_
@@ -147,6 +147,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
+
+* **[Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/5267749004)** — ¤140,800 – ¤158,400 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uaddtrclan8bfztrskjn.webp" width="24" height="24" alt="Motion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motion](https://jobo.world/company/Motion)
 
@@ -231,10 +235,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 * **[Industrial Engineer, Commissioning Services](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Engineer--Commissioning-Services_R4682)** — _n/a_ _(posted 2025-03-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t7hnejks5zv8kbaydiad.webp" width="24" height="24" alt="Tebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tebra](https://jobo.world/company/Tebra)
-
-* **[Software Engineer II](https://job-boards.greenhouse.io/tebra/jobs/4573206005)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
 * **[Engineer 3, Field Service](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-California-USA/Engineer-3--Field-Service_R-01318975-1)** — _n/a_ _(posted 2025-06-20)_
@@ -254,4 +254,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
