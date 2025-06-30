@@ -167,10 +167,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Flight Software Engineer](https://job-boards.greenhouse.io/muonspace/jobs/4737877007)** — _n/a_ _(posted 2025-06-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
-
-* **[Senior System Software Engineer - GPU and SoC](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-System-Software-Engineer---GPU-and-SoC_JR1997463)** — _n/a_ _(posted 2025-05-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
@@ -237,6 +233,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
+* **[Engineer II, Software](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Engineer-II--Software_R-01322421)** — _n/a_ _(posted 2025-06-27)_
 * **[Engineer 3, Field Service](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-California-USA/Engineer-3--Field-Service_R-01318975-1)** — _n/a_ _(posted 2025-06-20)_
 * **[Field Service Engineer II (Electron Microscopy) - Chandler, AZ](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Arizona-USA/Field-Service-Engineer-II--Electron-Microscopy----Chandler--AZ_R-01319686)** — _n/a_ _(posted 2025-06-13)_
 * **[Staff Engineer, Software](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Staff-Engineer--Software_R-01316817-1)** — _n/a_ _(posted 2025-05-08)_
@@ -254,4 +251,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
