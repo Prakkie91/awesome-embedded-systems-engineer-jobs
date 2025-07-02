@@ -102,6 +102,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
+* **[Sr. Emulation Engineer](https://job-boards.greenhouse.io/groq/jobs/6625841003)** — _n/a_ _(posted 2025-07-01)_
 * **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 * **[Post Silicon Validation Engineer](https://job-boards.greenhouse.io/groq/jobs/5979427003)** — _n/a_ _(posted 2025-05-21)_
 * **[Senior Staff Electrical Component Engineer](https://job-boards.greenhouse.io/groq/jobs/6561598003)** — _n/a_ _(posted 2025-05-21)_
@@ -119,14 +120,15 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Field Service Engineer, South Florida](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Florida---Remote/Field-Service-Engineer--South-Florida_40794-JOB-1)** — ¤73,400 – ¤110,200 USD _(posted 2025-06-17)_
 * **[Sr Product Security Engineer](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Sr-Product-Security-Engineer_40756-JOB-1)** — _n/a_ _(posted 2025-05-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
+
+* **[Staff Systems Reliability Engineer](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Staff-Systems-Reliability-Engineer_JR348)** — _n/a_ _(posted 2025-06-28)_
+* **[Sr. Systems Engineer I](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Sr-Systems-Engineer-I_JR282)** — _n/a_ _(posted 2025-06-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
 * **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/28faa3d6-ef77-4a80-83f1-4104087b391f)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -148,10 +150,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
-
-* **[Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/5267749004)** — ¤140,800 – ¤158,400 USD _(posted 2025-04-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uaddtrclan8bfztrskjn.webp" width="24" height="24" alt="Motion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motion](https://jobo.world/company/Motion)
 
 * **[Software Engineer (All levels)](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05)** — ¤125,000 – ¤250,000 USD _(posted 2025-03-12)_
@@ -170,7 +168,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
-* **[Process Equipment Design Engineer](https://boards.greenhouse.io/oklo/jobs/5171084004)** — _n/a_ _(posted 2025-03-28)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u79n2cm9db2wmtsm9025.webp" width="24" height="24" alt="Orb logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Orb](https://jobo.world/company/Orb)
@@ -182,10 +179,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Systems Engineer - Mission Definition](https://jobs.lever.co/reliable/68f70e8b-9aaf-4866-93b2-1c0cceb8d8f6)** — _n/a_ _(posted 2024-12-23)_
 * **[Systems Safety Engineer](https://jobs.lever.co/reliable/c141557c-dde1-4bac-8fd3-eda89e7864d0)** — _n/a_ _(posted 2023-06-08)_
 * **[Systems Architect](https://jobs.lever.co/reliable/b2ead667-547f-4217-b892-835d22f5874d)** — _n/a_ _(posted 2023-06-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
-
-* **[Staff Engineer Software Eng](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Staff-Engineer-Software-Eng_R-152864)** — _n/a_ _(posted 2025-05-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
@@ -221,6 +214,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Controls-Engineer_R5024-1)** — _n/a_ _(posted 2025-06-30)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
 * **[Advanced Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Advanced-Industrial-Controls-Engineer_R4984)** — _n/a_ _(posted 2025-06-10)_
 * **[Integration Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Integration-Specialist_R4962)** — _n/a_ _(posted 2025-06-04)_
@@ -251,4 +245,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
