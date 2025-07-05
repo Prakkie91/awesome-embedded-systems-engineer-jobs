@@ -70,10 +70,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Staff Software Engineer, Devices](https://boards.greenhouse.io/energyhub/jobs/7849953002)** — _n/a_ _(posted 2025-04-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
-
-* **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
 * **[Forward Deployed Engineer](https://jobs.ashbyhq.com/fieldguide/5f35e2e6-5008-4aa2-ba7e-199e86e18eb7)** — ¤125,000 – ¤184,000 USD _(posted 2025-03-12)_
@@ -101,6 +97,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
+* **[Sr. Director of Hardware Systems Engineering](https://job-boards.greenhouse.io/groq/jobs/6604555003)** — _n/a_ _(posted 2025-07-04)_
 * **[Sr. Physical Design Engineer](https://job-boards.greenhouse.io/groq/jobs/6628975003)** — _n/a_ _(posted 2025-07-03)_
 * **[Sr. Emulation Engineer](https://job-boards.greenhouse.io/groq/jobs/6625841003)** — _n/a_ _(posted 2025-07-01)_
 * **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
@@ -168,6 +165,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Flight Software Engineer](https://job-boards.greenhouse.io/muonspace/jobs/4737877007)** — _n/a_ _(posted 2025-06-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+
+* **[Senior Software Systems Engineer - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
@@ -201,7 +202,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Software Implementation Engineer, Market Expansion](https://jobs.ashbyhq.com/serverobotics/750b3216-693b-4663-9763-5f622773f4a9)** — ¤130,000 – ¤175,000 USD _(posted 2025-06-04)_
 * **[Sr. Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/1980ecb4-d381-4ca2-9b86-555686e677e6)** — ¤150,000 – ¤200,000 USD _(posted 2025-05-31)_
 * **[Full-Stack Software Engineer, Internal Services](https://jobs.ashbyhq.com/serverobotics/3cd15216-68ba-40e3-91a2-17e3817db7f0)** — ¤175,000 – ¤230,000 USD _(posted 2025-05-10)_
-* **[Lead Software Engineer, Delivery Platform](https://jobs.ashbyhq.com/serverobotics/88711f08-e506-4d7f-a65d-7acd583cd63f)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
@@ -245,4 +245,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-07-04_
+_Updated automatically — 2025-07-05_
