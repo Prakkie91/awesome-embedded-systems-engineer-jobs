@@ -14,6 +14,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Electronics Engineer (VideoRay)](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Pennsylvania/Senior-Electronics-Engineer--VideoRay-_5530)** — _n/a_ _(posted 2025-06-04)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ne28yljtdk8zbaxqvve2.webp" width="24" height="24" alt="AI Foundation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AI Foundation](https://jobo.world/company/AI-Foundation)
+
+* **[Junior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399775-junior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤96,000 – ¤120,000 USD _(posted 2025-07-08)_
+* **[Senior Processor Verification Engineer, RISC-V (Contractor)](https://jobs.smartrecruiters.com/LinuxFoundation/744000069399695-senior-processor-verification-engineer-risc-v-contractor-?oga=true)** — ¤144,000 – ¤168,000 USD _(posted 2025-07-08)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ckyjhkdbpmvj9xoezwuu.webp" width="24" height="24" alt="Altera Digital Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera Digital Health](https://jobo.world/company/Altera-Digital-Health)
 
 * **[Production Engineer](https://jobs.lever.co/smiledigitalhealth/af8e0112-7b75-42ec-9c37-a3447704210e)** — _n/a_ _(posted 2025-06-20)_
@@ -32,17 +37,12 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Product Engineer](https://jobs.ashbyhq.com/reteam/5cad5454-49ee-408a-8dbd-92c13f492d9e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
 * **[Design Engineer - Americas](https://jobs.ashbyhq.com/ashby/579e9d03-0724-482b-a42a-8e5e80d73405)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
-
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
 
 * **[Deployment Engineer](https://boards.greenhouse.io/collaborativerobotics/jobs/4711710007)** — _n/a_ _(posted 2025-04-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
-* **[Staff Software Engineer, Stream Control Plane](https://job-boards.greenhouse.io/cribl/jobs/5527219004)** — _n/a_ _(posted 2025-04-26)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
@@ -216,6 +216,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Network Installation Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Network-Installation-Engineer_R5056)** — _n/a_ _(posted 2025-07-08)_
 * **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
 * **[Director of Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director-of-Engineering_R5042)** — _n/a_ _(posted 2025-07-02)_
@@ -226,7 +227,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
 * **[Program Manager, Layout Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Program-Manager--Layout-Engineering_R4935)** — _n/a_ _(posted 2025-05-30)_
 * **[Technical Control Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Technical-Control-Engineer_R4776-1)** — _n/a_ _(posted 2025-04-16)_
-* **[System Reliability Test Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R4714)** — _n/a_ _(posted 2025-04-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
@@ -248,4 +248,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
