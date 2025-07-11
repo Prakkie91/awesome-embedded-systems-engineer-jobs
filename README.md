@@ -10,6 +10,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Systems Engineer III](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Systems-Engineer-III_31117009-2)** — _n/a_ _(posted 2025-06-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
+
+* **[Forward Deployed Engineer](https://job-boards.greenhouse.io/addepar1/jobs/7760230002)** — _n/a_ _(posted 2025-07-10)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sp7qimtghkvk7bu8xh8a.webp" width="24" height="24" alt="AeroVironment logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVironment](https://jobo.world/company/AeroVironment)
 
 * **[Senior Electronics Engineer (VideoRay)](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Pennsylvania/Senior-Electronics-Engineer--VideoRay-_5530)** — _n/a_ _(posted 2025-06-04)_
@@ -43,6 +47,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Staff Software Engineer, Stream Control Plane](https://job-boards.greenhouse.io/cribl/jobs/5527219004)** — _n/a_ _(posted 2025-04-26)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
@@ -83,7 +88,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Senior Mechanical Engineer ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F566f6462-5036-4ae6-8e3a-cb644465c7a0)** — ¤115,200 – ¤158,400 USD _(posted 2025-06-27)_
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 * **[Senior Staff Mechanical Engineer, Thermal Science](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fa7b91e1e-b008-433e-8f41-762128a3b920)** — ¤168,000 – ¤231,000 USD _(posted 2025-05-29)_
 * **[Electrical Engineer, Airframes](https://jobs.ashbyhq.com%2Fflock%2520safety%2F877c17ff-1a21-4986-8d85-03a11b63e401)** — ¤108,000 – ¤180,000 USD _(posted 2025-05-22)_
@@ -216,7 +220,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
-* **[Network Installation Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Network-Installation-Engineer_R5056)** — _n/a_ _(posted 2025-07-08)_
 * **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
 * **[Director of Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director-of-Engineering_R5042)** — _n/a_ _(posted 2025-07-02)_
@@ -248,4 +251,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-07-10_
+_Updated automatically — 2025-07-11_
