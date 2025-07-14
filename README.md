@@ -37,6 +37,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Product Engineer](https://jobs.ashbyhq.com/reteam/5cad5454-49ee-408a-8dbd-92c13f492d9e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
 * **[Design Engineer - Americas](https://jobs.ashbyhq.com/ashby/579e9d03-0724-482b-a42a-8e5e80d73405)** — ¤170,000 – ¤260,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
+
+* **[Healthcare Interface Engineer](https://baxter.wd1.myworkdayjobs.com/baxter/job/Illinois-remote/Healthcare-Interface-Engineer_JR-177787-1)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
 
 * **[Deployment Engineer](https://boards.greenhouse.io/collaborativerobotics/jobs/4711710007)** — _n/a_ _(posted 2025-04-18)_
@@ -74,10 +78,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Staff Software Engineer, Devices](https://boards.greenhouse.io/energyhub/jobs/7849953002)** — _n/a_ _(posted 2025-04-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
-
-* **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
 * **[Forward Deployed Engineer](https://jobs.ashbyhq.com/fieldguide/5f35e2e6-5008-4aa2-ba7e-199e86e18eb7)** — ¤125,000 – ¤184,000 USD _(posted 2025-03-12)_
@@ -112,10 +112,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Hardware Engineering Opportunities](https://job-boards.greenhouse.io/groq/jobs/5913271003)** — _n/a_ _(posted 2025-05-21)_
 * **[Strategic Sourcing Engineer, Silicon](https://job-boards.greenhouse.io/groq/jobs/6343174003)** — _n/a_ _(posted 2025-05-21)_
 * **[Senior Staff Design Automation Engineer](https://job-boards.greenhouse.io/groq/jobs/6510091003)** — _n/a_ _(posted 2025-05-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
-
-* **[AI Tutor, Electrical Engineering Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/2bd6f438-d0b6-4b8b-a590-d084d74e50a0)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
@@ -216,6 +212,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
+* **[Field System Operator Trainer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-System-Operator-Trainer_R5088)** — _n/a_ _(posted 2025-07-11)_
 * **[Robot Teleoperations Support Specialist](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Robot-Teleoperations-Support-Specialist_R5049)** — _n/a_ _(posted 2025-07-07)_
 * **[Automation Design Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Automation-Design-Engineer_R5043)** — _n/a_ _(posted 2025-07-02)_
 * **[Director of Engineering](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Director-of-Engineering_R5042)** — _n/a_ _(posted 2025-07-02)_
@@ -248,4 +245,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Sales Engineer / Solutions Engineer, Eastern](https://jobs.lever.co/yubico/a0117103-a958-42c1-ba58-7cae14ab2ab9)** — _n/a_ _(posted 2025-06-16)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
