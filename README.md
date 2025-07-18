@@ -66,9 +66,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[SDET III - Flight Control (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III---Flight-Control--Remote-_R23305)** — _n/a_ _(posted 2025-05-27)_
 * **[Engineering Manager, Sensor (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MD/Engineering-Manager--Sensor--Remote--East-Coast-_R23143)** — _n/a_ _(posted 2025-05-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
 
-* **[Salesforce Business Systems Analyst](https://jobs.ashbyhq.com/dandy/9da28da6-b9ab-43e3-b1c2-78d63d03f8cc)** — ¤105,400 – ¤124,000 USD _(posted 2025-06-26)_
+* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068137-2)** — _n/a_ _(posted 2025-07-16)_
+* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068091-2)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
 
@@ -78,13 +79,16 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[RevOps Systems Manager](https://jobs.ashbyhq.com/fieldguide/ad243815-19d7-4491-b0f5-7ca3ef1febf3)** — ¤105,000 – ¤172,000 USD _(posted 2025-06-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
+
+* **[GTM Systems Architect](https://job-boards.greenhouse.io/fleetio/jobs/4790500007)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
-* **[Sr. Staff Software Engineer – High Performance GPU Inference Systems](https://job-boards.greenhouse.io/groq/jobs/6648615003)** — _n/a_ _(posted 2025-07-15)_
 * **[Sr. Director of Hardware Systems Engineering](https://job-boards.greenhouse.io/groq/jobs/6604555003)** — _n/a_ _(posted 2025-07-04)_
 * **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 * **[Software Engineer, Model Evaluation Systems](https://job-boards.greenhouse.io/groq/jobs/6493328003)** — _n/a_ _(posted 2025-05-21)_
@@ -92,10 +96,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
 * **[Senior Software Engineer - Business Systems (Ruby/Rails)](https://job-boards.greenhouse.io/huntress/jobs/6510639003)** — ¤160,000 – ¤190,000 USD _(posted 2025-06-11)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jsslip6bkuc18rzjcyoh.webp" width="24" height="24" alt="Instabase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instabase](https://jobo.world/company/Instabase)
-
-* **[Senior GTM Systems Manager](https://job-boards.greenhouse.io/instabase/jobs/8037036002)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
 
@@ -113,6 +113,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Software Engineer, Forcefield (R&D)](https://apply.workable.com/keepersecurity/j/0337340445/)** — _n/a_ _(posted 2025-06-09)_
 * **[Senior Software Engineer, KCM](https://apply.workable.com/keepersecurity/j/83671C13A3/)** — _n/a_ _(posted 2025-05-09)_
 * **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/447286DBB1/)** — _n/a_ _(posted 2025-03-28)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
+
+* **[Fullstack Engineer - Financial Systems](https://jobs.ashbyhq.com/kraken.com/9774c0ec-c573-4adf-81f7-49a6817fd3b7)** — ¤110,000 – ¤176,000 USD _(posted 2025-07-17)_
+* **[Backend Engineer - Rust - Financial Systems](https://jobs.ashbyhq.com/kraken.com/ad4a45b3-c958-4cbf-86af-5466fe71bd0e)** — ¤127,000 – ¤203,000 USD _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
@@ -170,7 +175,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
 * **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
-* **[Sr. Software Engineer, Walrus Core](https://jobs.ashbyhq.com/mystenlabs/0407024e-3bdf-4fd7-a974-07a5435b3e0e)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -187,10 +191,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
-
-* **[Senior or Staff Software Engineer, Backend](https://boards.greenhouse.io/onesignal/jobs/4412101006)** — _n/a_ _(posted 2025-03-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
@@ -203,6 +203,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Full Stack Engineer, Reporting Systems - Contract 6mo](https://job-boards.greenhouse.io/polychaincapital/jobs/6888228)** — _n/a_ _(posted 2025-05-15)_
 * **[Backend Engineer, Reporting Systems - Contract 6mo](https://job-boards.greenhouse.io/polychaincapital/jobs/6885321)** — _n/a_ _(posted 2025-05-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
+
+* **[Revenue Systems Manager](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000071099282-revenue-systems-manager?oga=true)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
 
@@ -250,10 +254,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Software Engineer, Networking (Rust)](https://job-boards.greenhouse.io/tailscale/jobs/4586317005)** — _n/a_ _(posted 2025-07-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
-
-* **[Director, Quality – Digital Systems](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Indiana-USA/Director--Quality---Digital-Systems_R-01322096)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uprifep2y6zsxs1flene.webp" width="24" height="24" alt="Uplift logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Uplift](https://jobo.world/company/Uplift)
 
 * **[Senior Research Scientist (Remote)](https://apply.workable.com/uplift-people-consulting/j/BA7D424A2B/)** — _n/a_ _(posted 2025-07-08)_
@@ -296,4 +296,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
