@@ -8,7 +8,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqtxryrzzr3osa9lrxfb.webp" width="24" height="24" alt="Acronis logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Acronis](https://jobo.world/company/Acronis)
 
-* **[System Engineer (Cloud Platform)](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/System-Engineer--Cloud-Platform-_R-100369)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bkz2yoeagkblnit7do7g.webp" width="24" height="24" alt="AeroVect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVect](https://jobo.world/company/AeroVect)
@@ -36,6 +35,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3cyuf7vmyhd1je7c0cy.webp" width="24" height="24" alt="Aura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aura](https://jobo.world/company/Aura)
 
 * **[System Engineer III](https://apply.workable.com/auria/j/1976DF0197/)** — ¤115,000 – ¤130,000 USD _(posted 2025-03-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cvew1hngd07el1zhjq77.webp" width="24" height="24" alt="Boulevard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Boulevard](https://jobo.world/company/Boulevard)
+
+* **[Director, Business Systems](https://job-boards.greenhouse.io/boulevard/jobs/4584569006)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
@@ -89,6 +92,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
+* **[Sr. Staff Software Engineer – High Performance GPU Inference Systems](https://job-boards.greenhouse.io/groq/jobs/6648615003)** — _n/a_ _(posted 2025-07-15)_
 * **[Sr. Director of Hardware Systems Engineering](https://job-boards.greenhouse.io/groq/jobs/6604555003)** — _n/a_ _(posted 2025-07-04)_
 * **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 * **[Software Engineer, Model Evaluation Systems](https://job-boards.greenhouse.io/groq/jobs/6493328003)** — _n/a_ _(posted 2025-05-21)_
@@ -236,10 +240,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Manager, Cyber Capabilities](https://job-boards.greenhouse.io/shift5/jobs/5588069004)** — _n/a_ _(posted 2025-07-14)_
 * **[Sales Engineer](https://boards.greenhouse.io/shift5/jobs/5459545004)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
-
-* **[IT Microsoft Systems Engineer](https://jobs.lever.co/smarsh/3f37a279-0994-4143-9942-7724dd3dd082)** — _n/a_ _(posted 2025-06-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lifhpwpjwz9hxhi1xkq0.webp" width="24" height="24" alt="StrongDM logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StrongDM](https://jobo.world/company/StrongDM)
 
 * **[Software Engineer](https://jobs.lever.co/strongdm/c0b4e466-beb4-46e3-9d91-05066bd15e49)** — _n/a_ _(posted 2025-05-22)_
@@ -296,4 +296,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
