@@ -23,9 +23,17 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
+
+* **[Backend Engineer](https://jobs.lever.co/aiwyn/72218db8-972b-452c-bfc4-b8b3884a0b19)** — _n/a_ _(posted 2025-05-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t8lcw35mb1hyqsgef2fm.webp" width="24" height="24" alt="Amplitude logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Amplitude](https://jobo.world/company/Amplitude)
 
 * **[Senior Systems Engineer - GTM Technology](https://job-boards.greenhouse.io/amplitude/jobs/8040192002)** — _n/a_ _(posted 2025-06-18)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
+
+* **[Financial Systems Administrator](https://job-boards.greenhouse.io/appspace/jobs/5541245004)** — ¤80,000 – ¤120,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
@@ -60,6 +68,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Go to Market Systems Engineer (Salesforce Developer)](https://job-boards.greenhouse.io/clickhouse/jobs/5570267004)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hls9a14lzek1zhhs6w21.webp" width="24" height="24" alt="Cointracker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cointracker](https://jobo.world/company/Cointracker)
+
+* **[Backend Engineer](https://jobs.ashbyhq.com/cointracker/aeb0a861-4ea7-431b-a520-1a1e59a95418)** — _n/a_ _(posted 2025-07-22)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Engineer - Content Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Content-Systems--Remote-_R23880)** — _n/a_ _(posted 2025-07-11)_
@@ -87,12 +99,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
 * **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
 
-* **[Sr. Staff Software Engineer – High Performance GPU Inference Systems](https://job-boards.greenhouse.io/groq/jobs/6648615003)** — _n/a_ _(posted 2025-07-15)_
-* **[Sr. Director of Hardware Systems Engineering](https://job-boards.greenhouse.io/groq/jobs/6604555003)** — _n/a_ _(posted 2025-07-04)_
 * **[Principal Systems Architect](https://job-boards.greenhouse.io/groq/jobs/6616644003)** — _n/a_ _(posted 2025-06-21)_
 * **[Software Engineer, Model Evaluation Systems](https://job-boards.greenhouse.io/groq/jobs/6493328003)** — _n/a_ _(posted 2025-05-21)_
 
@@ -153,6 +164,11 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Senior Software Engineer, Roboticist](https://job-boards.greenhouse.io/motional/jobs/6563270003)** — _n/a_ _(posted 2025-05-03)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521424003)** — _n/a_ _(posted 2025-04-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Staff Software Engineer](https://job-boards.greenhouse.io/gomotive/jobs/7863953002)** — _n/a_ _(posted 2025-04-15)_
+* **[Lead Technical Program Manager, Software](https://job-boards.greenhouse.io/gomotive/jobs/7629013002)** — _n/a_ _(posted 2025-04-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
 
 * **[Systems Administrator](https://boards.greenhouse.io/themotleyfool/jobs/4515638007)** — _n/a_ _(posted 2025-04-10)_
@@ -174,7 +190,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
 * **[Senior Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/mystenlabs/25bcf8de-55f8-425f-bab4-bfad16e1d919)** — ¤150,000 – ¤225,000 USD _(posted 2025-04-26)_
-* **[Sr. Software Engineer, Walrus Core](https://jobs.ashbyhq.com/mystenlabs/0407024e-3bdf-4fd7-a974-07a5435b3e0e)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -182,6 +197,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
+* **[Senior Field Application Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Field-Application-Engineer_JR2000313)** — _n/a_ _(posted 2025-07-21)_
 * **[Senior Field Application Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Field-Application-Engineer_JR1999968)** — _n/a_ _(posted 2025-07-14)_
 * **[Senior Software Systems Engineer - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior Solutions Architect, HPC Systems Engineer](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Remote/Senior-Solutions-Architect--HPC-Systems-Engineer_JR1998307)** — _n/a_ _(posted 2025-06-04)_
@@ -190,10 +206,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Systems Engineer, Requirements](https://job-boards.greenhouse.io/oklo/jobs/5544862004)** — _n/a_ _(posted 2025-05-23)_
 * **[Instrumentation and Controls Engineer](https://boards.greenhouse.io/oklo/jobs/4762118004)** — _n/a_ _(posted 2025-03-20)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
-
-* **[Senior or Staff Software Engineer, Backend](https://boards.greenhouse.io/onesignal/jobs/4412101006)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
@@ -240,15 +252,9 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Manager, Cyber Capabilities](https://job-boards.greenhouse.io/shift5/jobs/5588069004)** — _n/a_ _(posted 2025-07-14)_
 * **[Sales Engineer](https://boards.greenhouse.io/shift5/jobs/5459545004)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lifhpwpjwz9hxhi1xkq0.webp" width="24" height="24" alt="StrongDM logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StrongDM](https://jobo.world/company/StrongDM)
-
-* **[Software Engineer](https://jobs.lever.co/strongdm/c0b4e466-beb4-46e3-9d91-05066bd15e49)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
-* **[Industrial Controls Engineer](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Industrial-Controls-Engineer_R5024-1)** — _n/a_ _(posted 2025-06-30)_
 * **[System Engineer – All Locations (Onsite)](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/System-Engineer---All-Locations--Onsite-_R4992)** — _n/a_ _(posted 2025-06-18)_
-* **[Field Service Maintenance Technician](https://symbotic.wd1.myworkdayjobs.com/symbotic/job/USA-Remote--Travel/Field-Service-Maintenance-Technician_R4931)** — _n/a_ _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
@@ -296,4 +302,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-22_
+_Updated automatically — 2025-07-23_
