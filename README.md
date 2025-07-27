@@ -222,6 +222,14 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Revenue Systems Manager](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000071099282-revenue-systems-manager?oga=true)** — _n/a_ _(posted 2025-07-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
+
+* **[Senior Design-Engineer | Design Systems Tooling](https://jobs.ashbyhq.com/ramp/ae76707c-d766-48c2-ac43-b8ecb4e1ddac)** — ¤159,100 – ¤218,800 USD _(posted 2025-07-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r4vmlwgaitaxesjsxwvr.webp" width="24" height="24" alt="RapidSOS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RapidSOS](https://jobo.world/company/RapidSOS)
+
+* **[Senior Software Engineer, VoIP](https://job-boards.greenhouse.io/rapidsos/jobs/4800088007)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
 
 * **[Back End Engineer](https://jobs.ashbyhq.com/readme/2cfb7c47-b9a6-400f-88c2-583772877741)** — _n/a_ _(posted 2025-03-12)_
@@ -249,11 +257,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Manager, Detections](https://job-boards.greenhouse.io/shift5/jobs/5573223004)** — _n/a_ _(posted 2025-07-14)_
 * **[Manager, Cyber Capabilities](https://job-boards.greenhouse.io/shift5/jobs/5588069004)** — _n/a_ _(posted 2025-07-14)_
 * **[Field Engineer (Active Clearance Required)](https://boards.greenhouse.io/shift5/jobs/4337057004)** — _n/a_ _(posted 2025-03-14)_
-* **[Sales Engineer](https://boards.greenhouse.io/shift5/jobs/5459545004)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
-
-* **[IT Microsoft Systems Engineer](https://jobs.lever.co/smarsh/3f37a279-0994-4143-9942-7724dd3dd082)** — _n/a_ _(posted 2025-06-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
 
@@ -293,4 +296,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
