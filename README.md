@@ -19,6 +19,10 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Senior Electronics Engineer (VideoRay)](https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Pennsylvania/Senior-Electronics-Engineer--VideoRay-_5530)** — _n/a_ _(posted 2025-06-04)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
+
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
 
 * **[Backend Engineer](https://jobs.lever.co/aiwyn/72218db8-972b-452c-bfc4-b8b3884a0b19)** — _n/a_ _(posted 2025-05-27)_
@@ -26,10 +30,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t8lcw35mb1hyqsgef2fm.webp" width="24" height="24" alt="Amplitude logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Amplitude](https://jobo.world/company/Amplitude)
 
 * **[Senior Systems Engineer - GTM Technology](https://job-boards.greenhouse.io/amplitude/jobs/8040192002)** — _n/a_ _(posted 2025-06-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbjqngphisdkg1vj3ilm.webp" width="24" height="24" alt="Appspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appspace](https://jobo.world/company/Appspace)
-
-* **[Financial Systems Administrator](https://job-boards.greenhouse.io/appspace/jobs/5541245004)** — ¤80,000 – ¤120,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
@@ -57,6 +57,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Engineer II - Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer-II---Sensor--Remote-_R24055)** — _n/a_ _(posted 2025-07-31)_
 * **[Engineer III - Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Sensor--Remote-_R24107)** — _n/a_ _(posted 2025-07-28)_
 * **[Engineering Manager, Linux Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Linux-Sensor--Remote-_R23896)** — _n/a_ _(posted 2025-07-28)_
 * **[Sr. Software Engineer - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Linux-Sensor--EPP-Product--Remote-_R23841)** — _n/a_ _(posted 2025-07-11)_
@@ -79,18 +80,15 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 * **[Staff Design Engineer/Technical Lead, Design Systems](https://job-boards.greenhouse.io/eventbriteinc/jobs/4536362007)** — _n/a_ _(posted 2025-07-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
-
-* **[RevOps Systems Manager](https://jobs.ashbyhq.com/fieldguide/ad243815-19d7-4491-b0f5-7ca3ef1febf3)** — ¤105,000 – ¤172,000 USD _(posted 2025-06-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[GTM Systems Architect](https://job-boards.greenhouse.io/fleetio/jobs/4790500007)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Software Engineer, Autonomous Systems](https://jobs.ashbyhq.com/flock%20safety/0c957a6e-162f-4574-9058-262c2c00874a)** — ¤170,000 – ¤200,000 USD _(posted 2025-08-01)_
+* **[Staff Embedded Systems Test Engineer](https://jobs.ashbyhq.com/flock%20safety/df3cae90-fe04-4bed-b5c2-d06b95f4e059)** — ¤200,000 – ¤220,000 USD _(posted 2025-08-01)_
 * **[Senior Embedded Machine Learning Engineer ](https://jobs.ashbyhq.com/flock%20safety/01421c1a-657d-4451-ae26-1220ea21bf6e)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-30)_
-* **[Journeyman Electrician - Bay Area, CA](https://jobs.ashbyhq.com/flock%20safety/b9c4a890-f620-42ca-9787-01fcd367952c)** — ¤64,000 – ¤88,000 USD _(posted 2025-07-29)_
 * **[Software Engineer - Rust ](https://jobs.ashbyhq.com/flock%20safety/62f3647d-1101-46c1-9c16-a70e824692be)** — ¤142,000 – ¤165,000 USD _(posted 2025-07-25)_
 * **[Senior Software Engineer, Cellular ](https://jobs.ashbyhq.com/flock%20safety/c51e26f5-af4c-41f7-9103-ab4f5f5f6dd2)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-23)_
 * **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
@@ -123,7 +121,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Desktop Software Engineer (C# / .NET)](https://apply.workable.com/keepersecurity/j/CA871D73FD/)** — _n/a_ _(posted 2025-06-11)_
-* **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/447286DBB1/)** — _n/a_ _(posted 2025-03-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
@@ -179,6 +176,7 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dp45jhg8rcdpdfg98rsx.webp" width="24" height="24" alt="Mux logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mux](https://jobo.world/company/Mux)
 
+* **[Senior Software Engineer - Distributed Systems](https://jobs.ashbyhq.com/mux/13951b3a-fc15-466c-8677-bddb800a311f)** — ¤200,000 – ¤225,000 USD _(posted 2025-07-15)_
 * **[Software Engineer - Distributed Systems (Mid-Staff Level)](https://boards.greenhouse.io/mux/jobs/7431906002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
@@ -208,10 +206,6 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
 
 * **[Staff IT Systems Engineer](https://apply.workable.com/oura-health-ltd/j/7CC7C541F6)** — ¤182,000 USD _(posted 2025-07-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
-
-* **[Business Systems Manager](https://jobs.lever.co/panopto/ad0fa593-443e-44a8-9c12-54f841a8f42a)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
@@ -293,4 +287,4 @@ Browse a wide range of remote Embedded Systems Engineer positions available glob
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
